@@ -1,0 +1,8 @@
+Available in lab
+- CA3140 (opamp)
+- MCP6294 (quad opamp)
+- MCP602 (dual op amp)
+- LM358 (dual op amp)
+- LM386N (audio amp)
+- AD623ANZ (opamp dif amp)
+- AD620ANZ (opamp dif amp)
